@@ -1,1 +1,1 @@
-###### Spring MVC 5 REST example without Spring Boot
+# Spring MVC 5 REST example without Spring Boot
