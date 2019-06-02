@@ -1,5 +1,0 @@
-com\regism\BankController.class
-com\regism\config\WebSecurityConfig.class
-com\regism\Transactions.class
-com\regism\AllTx.class
-com\regism\services\OpenBankService.class
